@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/d00" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d05" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d33" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rush" vcs="Git" />
+  </component>
+</project>
